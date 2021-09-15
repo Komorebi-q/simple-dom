@@ -1,0 +1,15 @@
+{
+  "name": "komorebi-simple-dom-x",
+  "version": "1.0.5",
+  "description": "simple dom libs",
+  "main": "index.js",
+  "homepage": "https://github.com/Komorebi-q/simple-dom",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "publish": "npm publish --access public"
+  },
+  "keywords": [],
+  "author": "komorebi",
+  "license": "ISC"
+}
